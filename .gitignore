@@ -10,7 +10,6 @@ env/
 ENV/
 
 # dotenv
-.env
 .env.*
 
 # Editors/IDE
